@@ -25,7 +25,7 @@
     "cpf_cnpj": "^0.2.0"
   },
   "peerDependencies": {
-    "joi": "^13.1.2"
+    "joi": "*"
   },
   "devDependencies": {
     "jasmine": "^2.6.0"
